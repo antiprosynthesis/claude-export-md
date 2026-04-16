@@ -16,7 +16,7 @@ The `/export-md` invocation itself is excluded from the output, so exporting is 
 
 - Claude Code (uses `~/.claude/sessions/` and `~/.claude/projects/`)
 - Python 3
-- Linux: A clipboard tool for the clipboard mode: `wl-copy`, `xclip`, or `xsel`
+- (Linux only) A clipboard tool for the clipboard mode: `wl-copy`, `xclip`, or `xsel`
 
 ## Install
 
